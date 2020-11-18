@@ -4,7 +4,7 @@
 2. Head over to the location where you have downloaded this script.
 3. Open CMD or Powershell at the location using (shift+right_click_of_mouse > open CMD here).
 4. Inside CMD type this:
-   - python Change-All-Files-Name-at-once-using-python.py
+   - `python Change-All-Files-Name-at-once-using-python.py` to run the script.
    - Now enter the path where your target files are present.
    - Now enter the character just before the required file name.
    - Now enter the character just after the required file name.
