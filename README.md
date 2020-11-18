@@ -1,4 +1,4 @@
-# Change-All-Files-Name-at-once-using-python-
+# Change-All-Files-Name-at-once-using-python
 ## Direction to use this python script:-
 1. Click here to download [Change-All-Files-Name-at-once-using-python.py](https://github.com/Lucifer-00007/Change-All-Files-Name-at-once-using-python/archive/main.zip) script and extract the zip file.
 2. Head over to the location where you have downloaded this script.
