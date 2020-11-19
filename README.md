@@ -14,7 +14,7 @@
 
 ## Precautions while using this script:
 - The target folder where your files are present:-
-  - Should not contain contain any other folder.
+  - Should not contain contain any other folder(for better output).
   - It should only contain those files whose name you want to change. 
 
 
